@@ -1,0 +1,18 @@
+{
+  "asset_folders": [
+    "assets"
+  ],
+  "author": "",
+  "id": "Projects_Notebook",
+  "library_folders": [
+    "libs"
+  ],
+  "name": "Projects_Notebook",
+  "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
+  "steps": [
+    "S01.py",
+    "S02.py"
+  ],
+  "summary": "",
+  "title": "Projects Notebook"
+}
